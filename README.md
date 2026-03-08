@@ -19,16 +19,16 @@
 
 ## ▶️ 게임 화면
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4c2b5e5-d28e-46f6-b4e6-f1393d8b449a" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/204850e2-b5f2-47fa-9a67-fdca2298deb8" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/c875fc21-f000-460d-a4fb-38755d820b6a" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/b9cb8cc4-aa05-4513-a469-e514b7b3cda9" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd8867df-74a1-450f-b51d-25eb9b7b4520" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/0cc4b895-149f-42bb-92aa-55c517e7ff8e" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/4e6695d7-fb52-4779-83a8-52b1b103149d" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/654d4b92-ca74-406d-9cc1-91dce52c559d" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9dae9920-8bc9-4f7d-9125-cb9eb3766efd" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/4eeda31c-3ca6-40a6-927c-6a0cdd2c29ef" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/a953cb1f-878c-4226-89c4-d497d09fe9ab" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/4860f351-a2e9-4a94-815e-bf77ce2ad817" width="49%"/>
 </p>
 
 ## 🎮 게임 설명 
